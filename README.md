@@ -6,7 +6,7 @@ This repository contains my weekly labs, assignments, and practical work complet
 
 ## 👩🏻‍💻 About Me
 
-**Name:** [Masaheer Alshamrani]
+**Name:** Masaheer Alshamrani
 **Major:** Computer Science
 **Course:** Natural Language Processing
 
