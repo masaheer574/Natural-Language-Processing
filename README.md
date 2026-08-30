@@ -22,5 +22,10 @@ This repository is dedicated to documenting my learning and practical work throu
 * 📊 Experiments & Results
 
 ---
+## Weekly Lab Progress
+
+- [x] Lab 1 – Completed
+- [x] Lab 2: Text Pre-processing and Regular Expressions – Completed
+- [ ] Lab 3 – Not started
 
 **Natural Language Processing | Weekly Coursework & Labs**
